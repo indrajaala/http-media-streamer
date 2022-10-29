@@ -1,7 +1,7 @@
 {
     "name": "http-media-streamer",
     "author": "indrajaala",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Node.js Express module to stream Video and Audio files.",
     "repository": {
         "type": "git",
