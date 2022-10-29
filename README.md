@@ -1,15 +1,15 @@
-# media-streamer
+# http-media-streamer
 
 [![npm][npm-img]][npm-url]
-![example workflow](https://github.com/indrajaala/media-streamer/actions/workflows/test.yml/badge.svg)
-![example workflow](https://github.com/indrajaala/media-streamer/actions/workflows/npm-publish.yml/badge.svg)
+![example workflow](https://github.com/indrajaala/http-media-streamer/actions/workflows/test.yml/badge.svg)
+![example workflow](https://github.com/indrajaala/http-media-streamer/actions/workflows/npm-publish.yml/badge.svg)
 
 Node.js Express module to stream Video and Audio files.
 
 ## Installation
 
 ```
-npm i media-streamer
+npm i http-media-streamer
 ```
 
 ## Usage
@@ -58,5 +58,5 @@ npm run test
 
 [MIT](http://opensource.org/licenses/MIT)
 
-[npm-img]: https://img.shields.io/npm/v/media-streamer.svg
-[npm-url]: https://npmjs.com/package/media-streamer
+[npm-img]: https://img.shields.io/npm/v/http-media-streamer.svg
+[npm-url]: https://npmjs.com/package/http-media-streamer
